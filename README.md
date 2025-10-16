@@ -6,6 +6,21 @@ This project demonstrates a **3-tier CI/CD setup** for a Java-based web calculat
 - **Apache Tomcat (Deploy Server)** for deployment
 
 ---
+## 🧩 CI/CD Pipeline Overview
+
+```text
+[ Build Server ]
+   |-- Maven compiles source
+   |-- Generates WAR file
+   |-- Deploys to Nexus Repo
+         ↓
+[ Nexus Repository ]
+   |-- Hosts versioned artifacts
+         ↓
+[ Deploy Server ]
+   |-- Fetches WAR files from Nexus
+   |-- Deploys to Apache Tomcat
+```
 
 ## 🏗️ 1️⃣ Build Server Setup — Maven + OpenJDK
 
@@ -260,22 +275,6 @@ sudo vi ./conf/tomcat-users.xml
 - **Deployed App:** `http://<DEPLOY_PUBLIC_IP>:8080/webapp-add`
 
 ---
-
-## 🧩 CI/CD Pipeline Overview
-
-```text
-[ Build Server ]
-   |-- Maven compiles source
-   |-- Generates WAR file
-   |-- Deploys to Nexus Repo
-         ↓
-[ Nexus Repository ]
-   |-- Hosts versioned artifacts
-         ↓
-[ Deploy Server ]
-   |-- Fetches WAR files from Nexus
-   |-- Deploys to Apache Tomcat
-```
 
 ---
 
