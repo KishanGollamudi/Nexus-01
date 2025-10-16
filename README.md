@@ -252,7 +252,7 @@ sudo vi ./webapps/manager/META-INF/context.xml
 sudo vi ./webapps/host-manager/META-INF/context.xml
 sudo find -name tomcat-users.xml
 sudo vi ./conf/tomcat-users.xml
-history
+
 ```
 
 **📍 Access URLs:**
@@ -299,4 +299,3 @@ history
 | OS | Ubuntu 22.04 LTS |
 
 ---
-Snapshot:
