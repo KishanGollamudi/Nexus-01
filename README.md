@@ -48,6 +48,7 @@ sudo vi index.jsp
 mvn package
 cd target/
 ```
+```bash
 cd Java-Web-Calculator-App/
 ls
 sudo vi pom.xml
