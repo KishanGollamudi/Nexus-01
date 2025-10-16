@@ -40,12 +40,21 @@ ls
 sudo apt install tree
 tree
 ```
+13. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e55b61e4-df5c-4baf-81d4-00ce6fbad487" />
+14. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dc61cd43-c9a1-405a-90ab-258978d4cb0c" />
+15. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bc0a71bb-aae1-47ce-a2f7-4cc6928db39b" />
+16. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2d136761-a3f1-41b9-9fb0-c2eededc3a7b" />
 
 ```bash
 cs src/main/webapp/
 cd src/main/webapp/
 cp index.jsp /tmp/
 ```
+17. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/48387953-b530-46e7-92a6-5f8233fa41c4" />
+18. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c8f74afb-ee28-406f-947f-4849aa4cb4f2" />
+19. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/79bfd8f4-f582-44ce-9588-65b3428ee4b9" />
+20. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d02a1e5-87b6-463b-bf7c-17424ae54754" />
+
 ```bash
 cd Java-Web-Calculator-App/
 >pom.xml
@@ -53,64 +62,91 @@ sudo vi pom.xml
 tree
 cd src/main/webapp/
 ```
+21. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f089f7cb-2d63-4d23-b7ef-865facc16d30" />
+22. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7a45f525-5425-4eab-8b9a-b0f704199b83" />
+23. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/46bce731-f6d1-4d61-b0dd-7581a9b12cd5" />
+24. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/91e2d469-d3bc-4136-820c-209c9f1a2cb1" />
+
 ```bash
 sudo vi index.jsp
 mvn package
 cd target/
 ```
+25. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/78502d37-866d-40f6-b5cc-a5163340ef56" />
+26. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3910f556-26ae-4f0d-a288-7260dc2539bc" />
+27. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c4ec9ec8-b4a2-4730-b7f0-d654a95243bb" />
+28. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d0df5c6c-152b-452d-8261-63f85b229ac9" />
+
 ```bash
 cd Java-Web-Calculator-App/
 ls
 sudo vi pom.xml
-cd
 cd /etc/maven/
-ls
 sudo vi settings.xml
-cd
+```
+29. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4844bebe-3fd6-445c-9ab4-587973f1c677" />
+30. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8de7093f-fb37-4521-91e6-c67cf1d2af77" />
+31. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5cc69fa8-4158-4b03-89a3-a74adbfa394f" />
+32. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c019f95a-93fc-41cd-bcd1-c20c22b5287c" />
+
+```bash
 cd Java-Web-Calculator-App/
-ls
 mvn clean
-ls
 mvn package
 mvn deploy
 mvn clean
-ls
+```
+33. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8d9df744-f989-4baa-b4a3-d2c18c33a357" />
+34. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8219dac4-ce8b-48a5-a788-12eba8e2493c" />
+35. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f6954123-7709-4573-a501-a9f3a2dae254" />
+36. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cad9a408-bec2-4031-ae2c-3bb561dbb0f3" />
+
+```bash
 cd src/main/webapp/
-ls
 cp /tmp/index.jsp /Java-Web-Calculator-App/src/main/webapp/
 cp /tmp/index.jsp .
-ls
 sudo vi index.jsp
-cd ../../..
-ls
+```
+37. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/12295e1e-4432-440e-a206-23debdd7fd19" />
+38. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aa9ced9a-aa9d-4d7f-a2f0-1f7d65eb5ef0" />
+39. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eaa3a33f-b5bd-4103-935e-e5b293ff8194" />
+40. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e761fbcd-7552-4e68-b896-34f28da8272e" />
+
+```bash
 sudo vi pom.xml
-ls
 mvn package
-ls
 cd target/
-ls
-cd ..
+```
+41. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/10553d9f-4fd3-4754-94ea-161b07fa5cbc" />
+42. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ed76f39f-44c7-4c82-8eae-f09024d21660" />
+43. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac379b2e-632c-47f6-8205-98a7310b22db" />
+44. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/57441b07-1d50-4288-a2bd-87c1e80e9b0f" />
+
+```bash
 mvn deploy
-ls
 mvn clean
-ls
 sudo vi pom.xml
 cd src/main/webapp/
-ls
+```
+45. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d23b06f3-4f96-4275-8759-f721a2b84a7c" />
+46. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1d7b4353-8707-4b05-9536-3d06b9826e84" />
+47. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1a2485c5-b64f-4601-be74-2dc7a9ba38a2" />
+48. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0693f66a-b615-4655-bff0-045c7b63f9a2" />
+
+```bash
 cp /tmp/index.jsp .
 sudo vi index.jsp
-cd ../..
-cd ..
-ls
 mvn package
 mvn deploy
-ls
+```
+49. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8ab88613-3baf-4414-a565-6c7189f07c8d" />
+50. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1142fc9c-79a2-47d3-8223-9d7defccadfb" />
+51. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a653adb5-cb66-4144-8409-f2a6fd38cbae" />
+52. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a0d6ee09-edbe-461a-9069-d023cfdad611" />
+
+```bash
 cd target/
-ls
-ls
 cd Java-Web-Calculator-App/
-ls
-history
 ```
 
 ---
@@ -121,22 +157,26 @@ history
 **Purpose:** Store and manage versioned artifacts (WAR files) pushed from the build server.
 
 ### 🔧 Commands Executed
+
 ```bash
 sudo hostnamectl set-hostname Nexus-Repo
 sudo apt update -y
 wget https://download.sonatype.com/nexus/3/nexus-3.85.0-03-linux-x86_64.tar.gz
 sudo init 6
-ls
+```
+53. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/699c0113-10a4-442b-ac3f-69d21f68d6b5" />
+54. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/569b9775-0795-4af9-bec8-e853f07947a3" />
+55. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a8dc3814-1179-41ee-ac72-2bf5a22d39dd" />
+56. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/36c12d1a-74eb-4413-ad6a-9718ef94436c" />
+```bash
 tar -xvzf nexus-3.85.0-03-linux-x86_64.tar.gz
-ls
 cd nexus-3.85.0-03/
-ls
 cd bin/
-ls
 ./nexus start
 ./nexus status
-cd ../..
-ls
+```
+
+```bash
 sudo apt install -y net-tools
 sudo netstat
 sudo netstat -tulnp | grep 8081
@@ -160,10 +200,16 @@ ls
 cd
 history
 ```
+57. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7ab18383-ff1e-4ddd-b672-1c4c17066859" />
+58. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/16361cda-01b2-46bc-849a-d5a891f6a3e2" />
+59. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f2dcfc41-1463-4348-83d2-c7b53f173542" />
 
 **📍 Access URL:**  
 `http://<NEXUS_PUBLIC_IP>:8081`
 
+60. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/89a84f90-c972-48da-83c5-9f5012b2f5a1" />
+61. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/09d09364-7e04-4db2-a6bd-27a2c8c2925d" />
+62. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/526b87e5-bfe0-4d5b-bad1-f99c63eadf4c" />
 ---
 
 ## 🚀 3️⃣ Deploy Server Setup — Apache Tomcat 9
