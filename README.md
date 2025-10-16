@@ -19,18 +19,28 @@ sudo hostnamectl set-hostname Build
 sudo apt update -y
 java --version
 ```
+4. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/10d26972-8103-4689-ae99-4febb646349e" />
+5. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/531d7c66-4e34-4ac8-9d0f-3bc22e377476" />
+6. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/adc0a814-8954-4eff-acca-da64063e39fe" />
+7. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5e6abfd0-437c-4452-aca4-796036dadbdc" />
+8. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f02d5c40-f301-4cb4-97df-6cc8b8a8de62" />
 ```bash
 sudo apt install openjdk-17-jre-headless -y
 sudo apt install maven -y
 sudo init 6
 git clone https://github.com/mrtechreddy/Java-Web-Calculator-App.git
 ```
+9. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fbc4b5ba-edeb-4b7f-9a9a-0c4cff7bb10d" />
+10. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/11791670-c660-4b13-bce5-12fa09f0c0f9" />
+11. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6b6fdf7c-ac9c-482e-a5e2-91c9ede36dba" />
+12. <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b0d3bc90-d50b-4d8b-b675-61bccc3b820d" />
 ```bash
 cd Java-Web-Calculator-App/
 ls
 sudo apt install tree
 tree
 ```
+
 ```bash
 cs src/main/webapp/
 cd src/main/webapp/
